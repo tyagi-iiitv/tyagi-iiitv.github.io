@@ -1,0 +1,31 @@
+- title: "CSIRE"
+  year: 2019
+  description: Causation Analysis of SAT scores across the United States at the <a href="https://bmi.stonybrookmedicine.edu/csire" style="color:blue">CSIRE</a> program.
+  location: Stony Brook University
+  who:
+    - Rohan Setia
+    - Amy Zhong
+
+- title: "CSIRE"
+  year: 2018
+  description: Prediction of Popularity of Images with Deep learning at the <a href="https://bmi.stonybrookmedicine.edu/csire" style="color:blue">CSIRE</a> program.
+  location: Stony Brook University
+  who:
+    - Jessica Liao
+
+- title: "Simons Fellowship"
+  year: 2018
+  description: Nutrition Facts Visualization Methods at <a href="https://www.stonybrook.edu/commcms/simons/simonsfellows/index.php#2018" style="color:blue">Simons Fellowship</a> program.
+  location: Stony Brook University
+  url: https://www.stonybrook.edu/commcms/simons/simonsfellows/index.php#2018
+  who:
+    - Helen He
+
+- title: "Software Development Projects"
+  year: 2017
+  description: Mentored freshers for software development projects in C language
+  location: Indian Institute of Information Technology
+  who:
+    - <a href="https://www.linkedin.com/in/shivam-saboo-9bb603157/" style="color:blue">Shivam Saboo</a>
+    - <a href="https://www.linkedin.com/in/monalshadi/" style="color:blue">Monal Shadi</a>
+    - <a href="https://www.linkedin.com/in/prithaupadhyay/" style="color:blue">Pritha Upadhyay</a>

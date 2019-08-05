@@ -1,0 +1,18 @@
+- title: Stony Brook University
+  courses:
+    - title: Machine Learning
+      with: Minh Nguyen
+    - title: Computer Vision
+      with: Dimitris Samaras
+    - title: Data Science
+      with: Steve Skiena
+    - title: Data Visualization
+      with: Klaus Mueller
+    - title: Big Data Algorithms and Networks
+      with: Zhenhua Liu
+    - title: Probability and Statistics
+      with: Anshul Gandhi
+    - title: Discrete Mathematics
+      with: Anita Wasilewska
+    
+    

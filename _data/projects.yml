@@ -1,0 +1,187 @@
+- title: Mozilla's Update Handling Server
+  image: balrog.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  # paper: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/mozilla/balrog
+  # article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
+  # recording: https://vimeo.com/290330896
+  description: "I worked as an Open Source Developer for Mozilla's Update handling server -- Balrog. Access my contributions with this [link](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&resolution=FIXED&resolution=INVALID&resolution=WONTFIX&resolution=DUPLICATE&resolution=WORKSFORME&resolution=INCOMPLETE&resolution=SUPPORT&resolution=EXPIRED&resolution=MOVED&emailtype1=exact&emailassigned_to1=1&query_format=advanced&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=anjul.ten%40gmail.com&list_id=13792801)."
+  highlight: 4
+
+- title: User Task Classification with Eye Tracking
+  image: eye_tracking1.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  paper: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/NFLLive
+  # article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
+  # recording: https://vimeo.com/290330896
+  description: "This is the study of classifying user tasks from the eye movements. Presented at [ACM ETRA 2019](https://etra.acm.org/2019/)."
+  highlight: 3
+
+- title: Road Accidents Visual Analytics
+  image: road_accidents.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  paper: https://www3.cs.stonybrook.edu/~anshul/vis18_poster.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/NFLLive
+  # article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
+  recording: https://vimeo.com/290330896
+  description: "Road Accidents in the UK (Analysis and Visualization) poster presented at IEEE VIS 2018."
+  # highlight: 2
+
+- title: Analysis of Synthetic Lethals
+  image: lethals.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/NFLLive
+  article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "I developed a [synthetic lethals](https://home.iitm.ac.in/kraman/lab/tag/synthetic-lethals/) analysis toolkig in MATLAB while working in [Raman Lab](https://home.iitm.ac.in/kraman/lab/) at [IIT Madras](https://www.iitm.ac.in/)."
+  # highlight: 2
+
+- title: Real time NFL predictions
+  image: nfl.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/tyagi-iiitv/NFLLive
+  article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "We designed a real time prediction system for NFL games to predict the chances of winning for each team for an ongoing match."
+  # highlight: 2
+
+- title: Bayesian Optimization for Cloud Configurations
+  image: cloud_bayes.JPG
+  # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  article: https://drive.google.com/file/d/0B-xHtp80VLt0ejQxeTNEWXJZa2dLaHFsbVhUZ1RTYjNyVlJJ/view
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "I studied various optimization techniques to find the near optimal [AWS](https://aws.amazon.com/) configurations for a given job, by deploying them from command line."
+  # highlight: 2
+
+- title: Predicting Actions from a Sequence of Images
+  image: wine_prediction.JPG
+  url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Classify actions from a sequence of images using RNNs. Kaggle leaderboard [ranking](https://www.kaggle.com/c/cse-512-hw7/leaderboard) 31/74."
+  # highlight: 2
+
+- title: Predicting Goodness of Wine
+  image: wine_prediction.JPG
+  url: https://www.kaggle.com/c/hw2-house-price-prediction-cse512-fall18/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Prediction of goodness of wine using Ridge Regression and LOOCV Cross Validation technique. Kaggle leaderboard [ranking](https://www.kaggle.com/c/hw2-house-price-prediction-cse512-fall18/leaderboard) 20/74."
+  # highlight: 2
+
+- title: Image Classification with CNNs
+  image: image_cnn.JPG
+  url: https://www.kaggle.com/c/cse512f18hw6img/leaderboard
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Deep learning project to classify images from the [Imagenet](http://www.image-net.org/) dataset. Kaggle leaderboard [ranking](https://www.kaggle.com/c/cse512f18hw6img/leaderboard) 12/74."
+  highlight: 2
+
+- title: Guitar Tuner
+  # url: https://github.com/tyagi-iiitv/guitar-tuner-in-octave
+  code: https://github.com/tyagi-iiitv/guitar-tuner-in-octave
+  image: guitar_tuner.JPG
+  description: "A simple guitar tuner built in MATLAB. Example code for recording sound and using Fourier transforms with MATLAB/OCTAVE."
+
+- title: ICE
+  image: ice.JPG
+  # url: https://arxiv.org/pdf/1907.12627.pdf
+  paper: https://arxiv.org/pdf/1907.12627.pdf
+  demo: https://youtu.be/0mD3IEjjq0U
+  # code: https://github.com/tyagi-iiitv/ICE-tool
+  # article: 
+  recording: https://youtu.be/bZJot0LL2Mc
+  description: "An interactive visualization tool to understand large categorical datasets with real time interactions. To appear in proc. of [VAST, IEEE VIS, 2019](http://ieeevis.org/year/2019/welcome)."
+  highlight: 1
+
+- title: Games in C
+  image: games_c.JPG
+  # url: https://github.com/tyagi-iiitv/frogger-in-c
+  code: https://github.com/tyagi-iiitv/cannon-combat
+  description: "I built the game of [Frogger](https://www.youtube.com/watch?v=ZKAJSp9bZxE) and Cannon Combat (Save your car from a cannon) from scratch in C with user interactions."
+
+- title: Wikipedia Search Engine
+  image: wikipedia_search.JPG
+  # url: https://arxiv.org/pdf/1907.12627.pdf
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://youtu.be/0mD3IEjjq0U
+  code: https://github.com/tyagi-iiitv/Hadoop-Inverted-Index-using-Map-Reduce
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "I created a search engine for Wikipedia with Hadoop's inverted index in Java."
+
+- title: Speed Bump Predictor
+  image: bumpy.JPG
+  url: https://github.com/tyagi-iiitv/Bumpy_server
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  demo: https://youtu.be/jWnjoEmr9Qo
+  code: https://github.com/tyagi-iiitv/Bumpy
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Android application to predict the upcoming speed bumps on the road. This app is controlled by a [Django](https://www.djangoproject.com/) server."
+  # highlight: 2
+
+- title: Book Sharing Portal
+  image: beyond_books.JPG
+  url: https://github.com/TheHackstreetBoys/BeyondBooks
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  demo: https://github.com/TheHackstreetBoys/BeyondBooks/tree/master/BeyondBooks_Documents
+  code: https://github.com/TheHackstreetBoys/BeyondBooks
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Book sharing portal and app built with Waterfall Software Engineering methodology in a team of 10. Great Documentation!!"
+  # highlight: 4
+
+- title: 3D Graphics Design
+  image: opengl.JPG
+  url: http://pypi.python.org/pypi/OpenglExample
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  # demo: https://github.com/TheHackstreetBoys/BeyondBooks/tree/master/BeyondBooks_Documents
+  code: http://pypi.python.org/pypi/OpenglExample
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "An example of designing 3D scenes with PyOpengl and Pygame. This demo is available on pip."
+  # highlight: 2
+
+- title: Text Image Translator app
+  image: text_translator.JPG
+  url: https://www.amazon.com/dp/B06W58XR7Q/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1487492338&sr=1-1&keywords=image+text+translator+%28English+to+Hindi%29
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Android app to grab an English text from image and translate it to Hindi. Thanks to the [Tesseract](https://github.com/tesseract-ocr/tesseract) API."
+  # highlight: 2
+
+- title: Weekly Task Manager
+  image: task_manager.JPG
+  url: https://www.amazon.com/dp/B06WWFBYC3/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1488011959&sr=1-1&keywords=weekly+task+manager
+  # paper: https://arxiv.org/pdf/1907.12627.pdf
+  demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/tyagi-iiitv/ImageTextTranslator
+  # article: 
+  # recording: https://youtu.be/bZJot0LL2Mc
+  description: "Another android app to help you manage your tasks. I used it for myself in my undergrad days."
+  # highlight: 2
+

@@ -1,0 +1,125 @@
+- id: ice
+  title: "ICE: Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces"
+  year: 2019
+  # doi: 10.1145/3290605.3300924
+  # short_doi: c5cv
+  # osf: szpqm
+  pdf: https://arxiv.org/pdf/1907.12627.pdf
+  arxiv: "1907.12627"
+  recording: https://youtu.be/bZJot0LL2Mc
+  video: https://youtu.be/0mD3IEjjq0U
+  authors:
+    - Anjul Tyagi 
+    - Zhen Cao
+    - Tyler Estro
+    - Erez Zadok
+    - Klaus Mueller
+  tags:
+    - Visualization
+    - Interactive tool
+    - Python
+    - JavaScript
+    - Optimization
+  venue: VIS
+  venue_tags:
+    - VIS
+  venue_location: Vancouver, CA
+  venue_url: http://ieeevis.org/year/2019/welcome
+  highlight: true
+  # link: https://github.com/uwdata/falcon
+  type:
+    - Conference
+
+- id: task_classification
+  title: "Task Classification Model for Visual Fixation, Exploration, and Search"
+  year: 2019
+  doi: 10.1145/3314111.3323073
+  # short_doi: c5cv
+  # osf: szpqm
+  pdf: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
+  arxiv: "1907.12635"
+  slides: https://docs.google.com/presentation/d/1o3BrYEsQVe33_XWmzI8J5qmA4VwZZiNyfLqCzFevcPg/edit?usp=sharing
+  # recording: https://youtu.be/bZJot0LL2Mc
+  # video: https://youtu.be/0mD3IEjjq0U
+  authors:
+    - Anjul Tyagi 
+    - Ayush Kumar
+    - Michael Burch
+    - Daniel Weiskopf
+    - Klaus Mueller
+  tags:
+    - Visualization
+    - Machine Learning
+    - Python
+    - Eye Tracking
+  venue: ETRA
+  venue_tags:
+    - ETRA
+  venue_location: Denver, USA
+  venue_url: https://etra.acm.org/2019/
+  highlight: true
+  # link: https://github.com/uwdata/falcon
+  type:
+    - Conference
+
+- id: ice_storage
+  title: "Graphs Are Not Enough: Using Interactive Visual Analytics in Storage Research"
+  year: 2019
+  # doi: 10.1145/3290605.3300924
+  # short_doi: c5cv
+  # osf: szpqm
+  pdf: https://www.usenix.org/system/files/hotstorage19-paper-cao_0.pdf
+  slides: https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage19_slides_cao.pdf
+  # arxiv: "1907.12627"
+  # recording: https://youtu.be/bZJot0LL2Mc
+  # video: https://youtu.be/0mD3IEjjq0U
+  authors:
+    - Zhen Cao 
+    - Geoff Kuenning
+    - Klaus Mueller
+    - Anjul Tyagi
+    - Erez Zadok
+  tags:
+    - Visualization
+    - Interactive tool
+    - Python
+    - JavaScript
+    - Optimization
+    - Storage Systems
+  venue: USENIX HotStorage
+  venue_tags:
+    - USENIX
+  venue_location: Renton, USA
+  venue_url: https://www.usenix.org/conference/atc19
+  highlight: true
+  # link: https://github.com/uwdata/falcon
+  type:
+    - Workshop
+
+- id: road_accidents
+  title: "Road Accidents in the UK (Analysis and Visualization)"
+  year: 2018
+  # doi: 10.1145/3290605.3300924
+  # short_doi: c5cv
+  # osf: szpqm
+  pdf: https://www3.cs.stonybrook.edu/~anshul/vis18_poster.pdf
+  # arxiv: "1907.12627"
+  # recording: https://youtu.be/bZJot0LL2Mc
+  video: https://vimeo.com/290330896
+  authors:
+    - Anjul Tyagi 
+    - Ayush Kumar
+    - Anshul Gandhi
+    - Klaus Mueller
+  tags:
+    - Visualization
+    - Python
+  venue: VIS
+  venue_tags:
+    - VIS
+  venue_location: Berlin, DE
+  venue_url: http://ieeevis.org/year/2018/welcome
+  # highlight: true
+  # link: https://github.com/uwdata/falcon
+  type:
+    - Poster

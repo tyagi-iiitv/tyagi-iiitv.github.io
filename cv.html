@@ -1,0 +1,500 @@
+---
+permalink: /cv/
+title: CV
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="application-name" content="{{ site.title }}">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}"/>
+    <link rel="icon" type="image/jpeg" href="{{ '/favicon.png' | relative_url }}" sizes="250x250" />
+
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" rel="stylesheet">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
+    <style>
+      html, body {
+        font-family: Merriweather, Georgia, serif;
+        font-size: 12px;
+        background-color: white;
+      }
+
+      b, strong {
+        font-weight: 600;
+      }
+
+      /* It's not good to hide links but looks better in a CV. */
+      a {
+        color: #333;
+      }
+
+      h1, h2, h3, h4 {
+        font-weight: 500;
+        border: none;
+        color: #333;
+        font-family: Fira Sans, Halvetica Neue, sans-serif;
+        page-break-after: avoid;
+      }
+
+      h1, h2, .pub-type {
+        color: #0A656C;
+        margin: 1em 0 .2em 0;
+      }
+
+      h1 {
+        font-size: 2.7em;
+      }
+
+      h2 {
+        font-size: 2.3em;
+      }
+
+      h2 a {
+        font-size: 0.7em;
+        color: #828282;
+      }
+      .live-link {
+        margin-bottom: 1em;
+        display: none;
+        opacity: 0.8;
+      }
+
+      .header-columns {
+        display: flex;
+        flex-direction: row;
+      }
+      .header-columns > div:first-child {
+        flex: 1;
+      }
+      .header-columns > div:last-child {
+        width: 200px;
+      }
+
+      h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.2em;
+        font-weight: 500;
+      }
+
+      h4 {
+        margin: 0;
+        font-size: 1.2em;
+        font-weight: 500;
+      }
+
+      .pub-type {
+        font-size: 1.3em;
+        margin-bottom: 0.4em;
+      }
+
+      .cv-pub h4 {
+        font-size: 1.2em;
+      }
+
+      .right-align {
+        text-align: right;
+      }
+
+      .cv-pub {
+        margin-bottom: 1.2em;
+      }
+
+      .muted, .muted a {
+        color: #666;
+      }
+
+      .award {
+        color: firebrick;
+        white-space: nowrap;
+      }
+
+      ul {
+        list-style: none;
+        margin-left: 0;
+      }
+
+      .container {
+        min-width: 480px;
+        max-width: 800px;
+      }
+
+      .container > * {
+        margin-left: 105px;
+      }
+
+      article {
+        margin-left: 0 !important;
+      }
+
+      article > * {
+        margin-left: 105px;
+      }
+
+      .ref-container {
+        margin-left: 0;
+        float: left;
+        text-align: right;
+        width: 85px;
+      }
+
+      .date-container {
+        width: 100%;
+        margin-left: 0 !important;
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: space-between;
+      }
+
+      .date-container h3, .date-container .fill {
+        flex: 1;
+      }
+
+      .cv-talk-title {
+        margin-top: 1.2em;
+      }
+
+      .date-container .date, .date-container time {
+        display: block;
+        width: 85px;
+        text-align: right;
+        padding-right: 20px;
+        flex-shrink: 0;
+      }
+
+      .date-container .right {
+        padding-left: 10px;
+        color: #828282;
+        font-size: .9em;
+      }
+
+      /* References */
+
+      .refs {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+
+      .refs > p {
+        width: 50%;
+      }
+
+      /* Link back to homepage */
+
+      .back {
+        font-family: sans-serif;
+        min-width: 480px;  /* same as container */
+        padding: 0.6em 1em;
+        background-color: #666;
+        color: #fff;
+      }
+
+      .back a {
+        color: #fff;
+        font-size: 1.1em;
+        font-weight: 600;
+      }
+
+      .back a:hover {
+        text-decoration: none;
+      }
+
+      @media print {
+        @page {
+          size: portrait;
+          margin: 12mm 12mm 12mm 12mm;
+        }
+
+        body {
+          margin: 0;
+          font-size: 11px;
+        }
+
+        .no-print, .no-print * {
+          display: none !important;
+        }
+
+        .live-link {
+          display: block;
+        }
+
+        h1, h2 {
+          margin: .4em 0 .1em 0;
+        }
+
+        /* link to interactive talk/publications */
+        h2 a {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body class="cv">
+    <div class="no-print back">
+      ◄ <a href="{{ absolute_url }}/">Back to Anjul's Homepage</a>
+    </div>
+
+    <div class="page-content">
+      <section class="container">
+<h1>Anjul Tyagi</h1>
+
+<small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="https://tyagi-iiitv.github.io/cv">tyagi-iiitv.github.io/cv</a>.</small>
+
+<div class="header-columns">
+  <div>
+    <p>
+      Ph.D. Candidate<br/>
+      Computer Science & Engineering<br/>
+      Stony Brook University, New York
+    </p>
+  </div>
+  <div>
+    <p class="right-align">
+      <a href="{{ absolute_url }}/">https://tyagi-iiitv.github.io</a><br/>
+      <a href="mailto:aktyagi@cs.stonybrook.edu">aktyagi@cs.stonybrook.edu</a><br/>
+      <a href="https://www.linkedin.com/in/anjul-tyagi/">@anjul-tyagi</a>
+    </p>
+  </div>
+</div>
+
+
+<h2>Research Area</h2>
+
+<p>
+I study HD Data <strong>Visualization</strong> techniques and their interdisciplinary applications in <strong>Storage Systems Performance Optimization</strong> and <strong>Eye Tracking</strong>. My work heavily relies on Statistics, Convex Optimization, Machine Learning and Dimension Reduction techniques. In programming languages, I prefer working with <strong>Python</strong> and <strong>Javascript</strong>.
+</p>
+
+
+<h2>Positions</h2>
+
+{% for pos in site.data.positions %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ pos.years }}</span>
+    <h3>{{ pos.title }}{% if pos.company %} at {{pos.company}}{% endif %}</h3>
+    <span class="right">{{ pos.location }}</span>
+  </div>
+  <!-- <p>
+    {% if pos.mentors %}
+      Mentor{% if pos.mentors.size > 1 %}s{% endif %}: {% for mentor in pos.mentors %}
+        {% include person person=mentor %}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}<br/>
+    {% endif %}
+    {{ pos.description | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% if pos.skills %}
+    <small class="muted">[{% for skill in pos.skills %}{{ skill }}{% unless forloop.last %}, {% endunless %}{% endfor %}]</small>
+    {% endif %}
+  </p> -->
+</article>
+{% endfor %}
+
+
+<h2>Education</h2>
+
+{% for ed in site.data.education %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ ed.years }}</span>
+    <h3>{{ ed.degree }}, {{ ed.university }}</h3>
+    <span class="right">{{ ed.location }}</span>
+  </div>
+  <p>
+    {% for des in ed.description %}
+      <span>{{ des | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% unless forloop.last %}<br/>{% endunless %}
+    {% endfor %}
+  </p>
+</article>
+{% endfor %}
+
+
+<h2>Notable Awards</h2>
+
+{% for award in site.data.awards %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ award.years }}</span>
+    <h3>{{ award.name }}</h3>
+    <span class="right">{{ award.sponsor }}</span>
+  </div>
+  <p>
+    {{ award.description }}
+  </p>
+</article>
+{% endfor %}
+
+
+<h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
+
+{% assign types = "Conference|Workshop|Poster" | split: "|" %}
+{% for type in types %}
+  {% assign counter = 1 %}
+  {% for pub in site.data.publications %}
+    {% if pub.type[0] == type %}
+      {% assign counter = counter | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  <h3 class="pub-type">
+    {{ type }}
+  </h3>
+
+  {% for pub in site.data.publications %}
+    {% if pub.type[0] == type %}
+      {% assign counter = counter | minus: 1 %}
+      <article class="cv-pub">
+        <div class="ref-container">{{ type | slice: 0 }}{{ counter }}</div>
+        <h4>{% if pub.pdf %}<a href="{{ pub.pdf }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{%endif%}</h4>
+        <div>
+          {% for author in pub.authors %}{% include person person=author %}{% unless forloop.last %}, {% endunless %}{% endfor %}.
+          {% if pub.venue or pub.description %}<i>{% if pub.description %}{{ pub.description | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}{{ pub.venue }}</i>{% if pub.venue %},{% endif %} {% endif %}{{ pub.year }}.
+          {% for award in pub.awards %}<br/><strong class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</strong>{% endfor %}
+        </div>
+      </article>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<!-- <h2>Patents</h2> -->
+
+<!-- {% for patent in site.data.patents %}
+  <div class="date-container">
+    <span class="date">{{ patent.date | date: "%b %Y" }}</span>
+    <h3><a href="{{ patent.url }}">{{ patent.title }}</a></h3>
+  </div>
+  <div class="patent">
+    <p>
+      {% for author in patent.authors %}
+        {% include person person=author %}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  </div>
+{% endfor %} -->
+
+
+<h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+
+{% assign talktitles = site.data.talks | group_by:"title" %}
+{% for title in talktitles %}
+<article>
+  <h3 class="cv-talk-title">{{ title.name }}</h3>
+  {% assign sorted_talks = title.items | sort: 'date' | reverse %}
+  {% for talk in sorted_talks %}
+    <div class="date-container">
+      <time datetime="{{ talk.date }}">{{ talk.date | date: "%b %Y" }}</time>
+      <span class="fill">{{ talk.location }}{% if talk.city %}, <small class="muted">{{ talk.city }}</small>{% endif %}</span>
+
+    </div>
+  {% endfor %}
+</article>
+{% endfor %}
+
+
+<h2>Teaching Experience</h2>
+
+{% for teach in site.data.teaching %}
+<article>
+  <div class="date-container">
+    <span class="date">{{teach.year}}</span>
+    <h3>{{ teach.title }}</h3>
+    <span class="right">{{ teach.location }}</span>
+  </div>
+  <p>
+    {% if teach.professor %}
+      {% if teach.role %}
+        {{ teach.role }} for
+      {% endif %}
+      {% include person person=teach.professor %},
+      {{ teach.students }}
+      <br/>
+    {% endif %}
+    {{ teach.description | markdownify | remove: '<p>' | remove: '</p>' }}
+  </p>
+</article>
+{% endfor %}
+
+
+<h2>Mentoring Experience</h2>
+
+{% for mentor in site.data.mentoring %}
+  <div class="date-container">
+    <span class="date">{{mentor.year}}</span>
+    <h3>{{ mentor.title }}</h3>
+    <span class="right">{{ mentor.location }}</span>
+  </div>
+  <p>
+    {{ mentor.description }}
+    {% if mentor.who %}
+      <br/>
+      <h4>Mentored:</h4>
+      <ul>
+      {% for person in mentor.who %}
+        <li>{% include person person=person %}{% unless forloop.last %}, {% endunless %}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </p>
+{% endfor %}
+
+
+<h2>Service</h2>
+
+<p>
+  Reviewer for <a href="https://academic.oup.com/comjnl" style="color:blue">The Computer Journal, 2019</a>.
+  <br/>
+  Student Volunteer at <a href="https://etra.acm.org/2019/index.html" style="color:blue">ACM ETRA, 2019</a>.
+</p>
+
+
+<h2>Relevant Coursework</h2>
+
+{% for institution in site.data.courses %}
+<article>
+  <h3>{{ institution.title }}</h3>
+  <div>
+    <ul>
+      {% for course in institution.courses %}<li>{{ course.title }}{% if course.with %}<span class="muted"> ({% include person person=course.with %})</span>{% endif %}</li>{% endfor %}
+    </ul>
+  </div>
+</article>
+{% endfor %}
+
+
+<h2>References</h2>
+
+<div class="refs">
+  <p>
+    <strong>Klaus Mueller</strong><br/>
+    Professor of Computer Science<br/>
+    <i>Stony Brook University</i><br/>
+    <a href="mailto:mueller@cs.stonybrook.edu">mueller@sbu.edu</a>
+  </p>
+
+  <p>
+    <strong>Erez Zadok</strong><br/>
+    Professor of Computer Science<br/>
+    <i>Stony Brook University</i><br/>
+    <a href="mailto:ezk@cs.stonybrook.edu">ezk@sbu.edu</a>
+  </p>
+
+  <!-- <p>
+    <strong>Arie Kaufman </strong><br/>
+    Distinguished Professor of Computer Science<br/>
+    <i>Stony Brook University</i><br/>
+    <a href="mailto:ari@cs.stonybrook.edu">ari@sbu.edu</a>
+  </p> -->
+</div>
+
+      </section>
+    </div>
+  </body>
+</html>
