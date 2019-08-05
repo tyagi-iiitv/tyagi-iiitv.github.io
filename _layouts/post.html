@@ -39,8 +39,9 @@ layout: default
     <span class="spacer"></span>
   {% endif %}
   </div>
+  <div>
+    {% if site.disqus and page.comments %}
+      {% include disqus.html %}
+    {% endif %}
+  </div>
 </section>
-
-{% if site.disqus and page.comments %}
-    {% include disqus.html %}
-{% endif %}
