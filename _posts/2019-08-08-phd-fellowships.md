@@ -10,7 +10,7 @@ comments: true
 I collected a list of fellowships available to Indian students who are pursuing a Ph.D. in Computer Science from any accredited institute in United States.
 
 #### Deadlines
-Usually the deadline range from late September to December for all of these fellowships. So, the right time to start preparing is mid to end August. 
+Usually the deadlines range from late September to December for all of these fellowships. So, the right time to start preparing is mid to end August. 
 
 #### Fellowships (All genders)
 - Open Philanthropy Project AI Fellowship (Very competitive)
