@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ph.D. fellowship in Computer Science for students from India in the United States 
+title: Ph.D. fellowships in Computer Science for students from India in the United States 
 description: Post listing the fellowships available to Indian students pursuing a Ph.D. in Computer Science from an accredited institute in the United States.
 categories: [General]
 tags: [general]
