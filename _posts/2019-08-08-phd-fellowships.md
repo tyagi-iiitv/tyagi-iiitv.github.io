@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ph.D. fellowship in Computer Science for students from India in the United States 
-description: Post listing the fellowships available to Indian students pursuing a Ph.D. in the United States
+description: Post listing the fellowships available to Indian students pursuing a Ph.D. in Computer Science from an accredited institute in the United States.
 categories: [General]
 tags: [general]
 comments: true
@@ -44,5 +44,5 @@ Usually the deadline range from late September to December for all of these fell
 - Microsoft Research Dissertation Grant Program (For final year students)
 
 #### References 
-https://www.cs.princeton.edu/grad/current-student-resources
-https://www.cs.cmu.edu/~gradfellowships/
+- https://www.cs.princeton.edu/grad/current-student-resources
+- https://www.cs.cmu.edu/~gradfellowships/
