@@ -70,18 +70,18 @@ In June 2019, I was fortunate to be a part of the accepted [NSF](https://www.nsf
 
 <div class="news" markdown="1">
 ## News
-
+<div class="news-2" markdown="1">
 <ul>
 {% for news in site.data.news %}
   {% include news.html news=news %}
 {% endfor %}
 </ul>
-
+</div>
 </div>
 
 <div class="travel" markdown="1">
 ## Travel
-
+<div class="travel-2" markdown="1">
 <table>
 <tbody>
 {% assign future_travel = site.data.travel | where_exp:'item','item.start == null' %}
@@ -96,5 +96,5 @@ In June 2019, I was fortunate to be a part of the accepted [NSF](https://www.nsf
 </table>
 
 </div>
-
+</div>
 </div>
