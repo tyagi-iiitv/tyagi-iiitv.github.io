@@ -15,7 +15,7 @@ My research area is to study High Dimensional Data Visualization techniques and 
 
 In June 2019, I was fortunate to be a part of the accepted [NSF](https://www.nsf.gov/) Grant on Storage Systems Performance Optimization along with [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). Receiving my BS from the [Indian Institute of Information Technology](http://iiitvadodara.ac.in/) in Computer Science, my undergraduate research experience was in the area of Computational Systems Biology where we worked with Convex Optimization problems. I was an [NNMCB](http://www.iiserpune.ac.in/~mbio/?q=nnmcb) fellow for the junior year of my undergrad with more details in my [CV]({{ "/cv/" | relative_url }}).
 
-**Fun Fact:** My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how]({% post_url /_posts/2019-08-29-academic-lineage %})
+**Fun Fact: My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how]({% post_url /_posts/2019-08-29-academic-lineage %})**
 </div>
 
 
