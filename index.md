@@ -9,12 +9,14 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-PhD candidate in the [Visual Analytics and Imaging Lab](https://www3.cs.stonybrook.edu/~mueller/) at the [Stony Brook University](https://www.stonybrook.edu/) advised by [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/).
+PhD candidate in the [Visual Analytics and Imaging Lab](https://www3.cs.stonybrook.edu/~mueller/) at [Stony Brook University](https://www.stonybrook.edu/) advised by [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/).
 
 My research area is to study High Dimensional Data Visualization techniques and their interdisciplinary applications in Storage Systems Performance Optimization and Eye Tracking. Statistics, Convex Optimization, Machine Learning and Dimension Reduction techniques are the tools generally applicable directly to the research problems that interests me. In programming languages, I prefer working with Python and Javascript to create advanced Visualizations which run on a browser.  
 
 In June 2019, I was fortunate to be a part of the accepted [NSF](https://www.nsf.gov/) Grant on Storage Systems Performance Optimization along with [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). Receiving my BS from the [Indian Institute of Information Technology](http://iiitvadodara.ac.in/) in Computer Science, my undergraduate research experience was in the area of Computational Systems Biology where we worked with Convex Optimization problems. I was an [NNMCB](http://www.iiserpune.ac.in/~mbio/?q=nnmcb) fellow for the junior year of my undergrad with more details in my [CV]({{ "/cv/" | relative_url }}).
 </div>
+
+**Fun Fact:** My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how]()
 
 <div class="me" markdown="1">
 <picture>
