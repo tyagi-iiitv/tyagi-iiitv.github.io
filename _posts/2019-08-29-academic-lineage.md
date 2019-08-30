@@ -20,11 +20,11 @@ comments: true
 - Adam Sedgwick - University of Cambridge, 1811
 - William Hopkins - University of Cambridge, 1830
 - Edward John Routh - University of Cambridge, 1857
-- Alfred North Whitehead, University of Cambridge, 1884
-- Robert Forbes McNaughton, Harvard University, 1951
-- Hisao M. Yamada, University of Pennsylvania, 1960
-- Samuel Bergman, University of Pennsylvania, 1970
-- Arie Kaufman, University of the Negev, 1977
-- Roni Yagel, Stony Brook University, 1991
-- **Klaus Mueller**, Ohio State University, 1998
-- **Anjul Tyagi**, Stony Brook University, Present
+- Alfred North Whitehead - University of Cambridge, 1884
+- Robert Forbes McNaughton - Harvard University, 1951
+- Hisao M. Yamada - University of Pennsylvania, 1960
+- Samuel Bergman - University of Pennsylvania, 1970
+- Arie Kaufman - University of the Negev, 1977
+- Roni Yagel - Stony Brook University, 1991
+- **Klaus Mueller** - Ohio State University, 1998
+- **Anjul Tyagi** - Stony Brook University, Present
