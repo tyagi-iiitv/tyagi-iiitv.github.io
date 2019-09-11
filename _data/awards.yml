@@ -1,6 +1,9 @@
 - name: Ph.D. Research fellowship
   years: 2019
   description: Fellowship awarded for research in Storage Systems Performance Optimization.
+- name: Young Writer Award
+  years: 2019
+  description: Award for the first paper (ICE paper) published at IEEE VIS granted by <a href="https://iacs.stonybrook.edu/_archived/awards/writers.html" style="color:blue">IACS at Stony Brook University</a>.
 - name: Academic Excellence Award
   years: 2018
   description: Award for outstanding performance (Rank 2) in the undergraduate batch of 2013 at IIIT. 
