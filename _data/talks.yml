@@ -1,14 +1,17 @@
-- title: "Visualization and Optimization of High Dimensional Datasets"
+- title: "Combining Visualization and Optimization to improve Storage Systems"
   location: Stony Brook University
   city: Stony Brook
   date: 2019-08-28
   recording: https://youtu.be/su-m49NpeM4
   slides: https://1drv.ms/p/s!AqwO5CBKvaJijlw0oafiux7HmMcy
+  pdf: https://drive.google.com/file/d/1hR-a_xCcoi96ZXBiF8q0_XtCqVDiXS1H/view?usp=sharing
 - title: "Task Classification Model for Visual Fixation, Exploration, and Search"
   location: ACM ETRA
   city: Denver
   date: 2019-06-28
   url: https://etra.acm.org/2019/challenge.html
+  slides: https://docs.google.com/presentation/d/1o3BrYEsQVe33_XWmzI8J5qmA4VwZZiNyfLqCzFevcPg/edit?usp=sharing
+  pdf: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
 - title: "Visualization of High Dimensional Categorical Parameters"
   location: Institute of Advanced Computational Science
   city: Stony Brook
