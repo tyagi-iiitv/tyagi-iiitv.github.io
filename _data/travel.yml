@@ -1,13 +1,17 @@
+- title: Microsoft
+  where: Redmond, Washington
+  start: 2019-09-22
+  end: 2019-09-24
 - title: Google
   where: New York City
   start: 2019-08-12
   end: 2019-08-12
 - title: ACM ETRA
-  where: Denver
+  where: Denver, Colorado
   start: 2019-06-24
   end: 2019-06-28
 - title: Road trip
-  where: Miami
+  where: Miami, Florida
   start: 2019-04-04
   end: 2019-04-09
 - title: Bhutan

@@ -1,6 +1,9 @@
 - name: Ph.D. Research fellowship
   years: 2019
   description: Fellowship awarded for research in Storage Systems Performance Optimization.
+- name: Travel Award
+  years: 2019
+  description: Travel award to attend the <a href"http://ieeevis.org/year/2019/welcome" style="color:blue">IEEE VIS</a> conference by <a href="https://iacs.stonybrook.edu/" style="color:blue">IACS</a> at Stony Brook University.
 - name: Young Writer Award
   years: 2019
   description: Award for the first paper (ICE paper) published at IEEE VIS granted by <a href="https://iacs.stonybrook.edu/_archived/awards/writers.html" style="color:blue">IACS at Stony Brook University</a>.

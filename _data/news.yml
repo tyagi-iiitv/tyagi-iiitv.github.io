@@ -1,6 +1,8 @@
-- message: "Young writer award for the ICE paper "
+- message: "Travel Award from [IACS](https://iacs.stonybrook.edu/) to attend [IEEE VIS](http://ieeevis.org/year/2019/welcome)."
+  date: 2019-09-16
+- message: "Young writer award for the ICE paper."
   date: 2019-09-11
-- message: "Successfully defended my qualifier RPE (Research Proficiency Exam) exam"
+- message: "Successfully defended my qualifier RPE (Research Proficiency Exam) exam."
   date: 2019-08-28
 - message: "Attended a social event at Google's NYC office."
   date: 2019-08-12
@@ -8,7 +10,7 @@
   date: 2019-07-25
 - message: "NSF Grant for my research in Storage Systems Optimization is approved."
   date: 2019-07-01
-- message: "[ICE](https://arxiv.org/pdf/1907.12627.pdf) accepted for VAST Conference Track at IEEE VIS"
+- message: "[ICE](https://arxiv.org/pdf/1907.12627.pdf) accepted for VAST Conference Track at IEEE VIS."
   date: 2019-06-28
 - message: "I'll be serving as a Student Volunteer at ETRA 2019."
   date: 2019-06-09
