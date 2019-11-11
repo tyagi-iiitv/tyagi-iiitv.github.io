@@ -22,9 +22,9 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/miami_pic.JPG' type='image/JPG' />
+  <source srcset='/images/website_pic.JPG' type='image/JPG' />
   <img
-    src='/images/miami_pic.JPG'
+    src='/images/website_pic.JPG'
     alt='Anjul Tyagi'/>
 </picture>
 
