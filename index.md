@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-# [Namaste!](https://www.merriam-webster.com/words-at-play/the-history-of-namaste) I am Anjul Tyagi
+# Hello, I am Anjul Tyagi
 
 <div class="columns" markdown="1">
 
