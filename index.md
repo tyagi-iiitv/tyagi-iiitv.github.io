@@ -24,7 +24,7 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
 <picture>
   <source srcset='/images/website_pic.jpg' type='image/JPG' />
   <img
-    src='/images/new_photo.jpg'
+    src='/images/website_pic.jpg'
     alt='Anjul Tyagi'/>
 </picture>
 
