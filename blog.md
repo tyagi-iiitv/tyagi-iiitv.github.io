@@ -6,6 +6,7 @@ title: Blog posts
 
 {% include search.html %}
 
+## This site is moved to [Medium-Anjul Tyagi](https://medium.com/@a_tyagi).
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | absolute_url }}">via RSS</a></p>
 
 <div class="post-list">

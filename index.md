@@ -9,11 +9,20 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-PhD candidate in the [Visual Analytics and Imaging Lab](https://www3.cs.stonybrook.edu/~mueller/) at [Stony Brook University](https://www.stonybrook.edu/) advised by [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/).
+PhD candidate in the [Visual Analytics and Imaging Lab](https://www3.cs.stonybrook.edu/~mueller/) at [Stony Brook University](https://www.stonybrook.edu/) advised by [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/). Get in touch, connect me on [LinkedIn](https://www.linkedin.com/in/anjul-tyagi/)!
 
-My research area is to study High Dimensional Data Visualization techniques and their interdisciplinary applications in Storage Systems Performance Optimization and Eye Tracking. Statistics, Convex Optimization, Machine Learning and Dimension Reduction techniques are the tools generally applicable directly to the research problems that interests me. In programming languages, I prefer working with Python and Javascript to create advanced Visualizations which run on a browser.  
+My research interest includes:
+<ul>
+  <li><b>3D Object Detection on Point Clouds</b> <i>(#Self Driving Cars, #Computer Vision, #Deep Learning)</i></li>
+  <li><b>Automated Infographics Generation</b> <i>(#Data Visualization, #Computer Vision, #Deep Learing)</i></li>
+  <li><b>Deep Neural Network Architecture Search</b> <i>(#Deep Learning, #Optimization)</i></li>
+  <li><b>High Dimensional Data Visualization</b> <i>(#Data Visualization)</i></li>
+</ul>
 
-In June 2019, I had the opportunity to be part of the accepted [NSF](https://www.nsf.gov/) Grant on Storage Systems Performance Optimization along with [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). Receiving my BS from the [Indian Institute of Information Technology](http://iiitvadodara.ac.in/) in Computer Science, my undergraduate research experience was in the area of Computational Systems Biology where we worked with Convex Optimization problems. I was an [NNMCB](http://www.iiserpune.ac.in/~mbio/?q=nnmcb) fellow for the junior year of my undergrad. More details are in my [CV]({{ "/cv/" | relative_url }}).
+Besides research, I like contributing to interesting Open Source Projects on Github, and writing about latest research trends on Medium. 
+I have been fortunate to collaborate with professors and researchers in -- Computer Vision at Seagate, Data Visualization ([Klaus Mueller-SBU](https://www3.cs.stonybrook.edu/~mueller/), [Jian Zhao-UWAT](https://www.jeffjianzhao.com/)), Storage Systems ([Erez Zadok-SBU](https://www3.cs.stonybrook.edu/~ezk/)) and Eye Tracking ([Ayush Kumar-SBU](https://www3.cs.stonybrook.edu/~aykumar/), [Michael Burch-TU/e](http://www.profitippliga.de/index2.php)). 
+
+Socially, I love meeting new people and enjoy part time Fitness, Athletics and Music. Connect me on [Instagram](https://www.instagram.com/tyagi_anjul/)!
 
 <span style="color:red">**Fun Fact!**</span> **My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how.]({% post_url _posts/2019-08-29-academic-lineage %})**
 
@@ -22,7 +31,7 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/website_pic.jpg' type='image/JPG' />
+  <source srcset='/images/victoria_zoom.jpg' type='image/JPG' />
   <img
     src='/images/website_pic.jpg'
     alt='Anjul Tyagi'/>
@@ -31,6 +40,16 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 * [New Computer Science, Room 134](https://goo.gl/maps/wCPiq6gusGdSBvbW8)
+* _______________________________________________________________________________________________
+
+
+<a href="https://www.linkedin.com/in/anjul-tyagi/"><i class="fab fa-linkedin"></i></a>
+<a href="https://github.com/tyagi-iiitv"><i class="fab fa-github"></i></a>
+<a href="https://www.instagram.com/tyagi_anjul/"><i class="fab fa-instagram"></i></a>
+<a href="https://medium.com/@a_tyagi"><i class="fab fa-medium"></i></a>
+<a href="https://twitter.com/anjul_ty"><i class="fab fa-twitter"></i></a>
+<a href="https://www.facebook.com/anjul.tyagi.56884/"><i class="fab fa-facebook"></i></a>
+<a href="https://scholar.google.com/citations?user=Ra9BXlkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a>
 </div>
 
 </div>
@@ -83,7 +102,7 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
 </div>
 </div>
 
-<div class="travel" markdown="1">
+<!-- <div class="travel" markdown="1">
 ## Travel
 <div class="travel-2" markdown="1">
 <table>
@@ -97,8 +116,6 @@ In June 2019, I had the opportunity to be part of the accepted [NSF](https://www
   {% include travel.html travel=travel %}
 {% endfor %}
 </tbody>
-</table>
+</table> -->
 
-</div>
-</div>
 </div>
