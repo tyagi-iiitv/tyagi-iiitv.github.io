@@ -1,6 +1,12 @@
 - name: Ph.D. Research fellowship
   years: 2019
-  description: Fellowship awarded for research in Storage Systems Performance Optimization.
+  description: Fellowship from Stony Brook University for research in Storage Systems Performance Optimization.
+- name: Top Writer on Self Driving Cars
+  years: July 2020
+  description: <a href="https://medium.com/tag/self-driving-cars/top-writers" style="color:blue">Medium's top writer</a> in the category of self driving cars. 
+- name: Selected for AT&T's graduate student symposium
+  years: 2019
+  description: Speaker at the annual <a href="http://stats.research.att.com/grad-symposium/" style="color:blue">AT&T's graduate student symposium</a>.  
 - name: Travel Award
   years: 2019
   description: Travel award to attend the <a href"http://ieeevis.org/year/2019/welcome" style="color:blue">IEEE VIS</a> conference by <a href="https://iacs.stonybrook.edu/" style="color:blue">IACS</a> at Stony Brook University.
