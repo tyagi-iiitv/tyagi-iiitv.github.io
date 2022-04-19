@@ -25,7 +25,7 @@ Besides research, I like contributing to interesting Open Source Projects on Git
 
 Socially, I love meeting new people and enjoy part time Fitness, Athletics and Music. Connect me on [**Instagram**](https://www.instagram.com/tyagi_anjul/)!
 
-<span style="color:red">**Fun Fact!**</span> **My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how.]({% post_url 2019-08-29-academic-lineage %})**
+<span style="color:red">**Fun Fact!**</span> **My academic lineage traces back to Isaac Newton and Galileo Galilei. [Checkout how!]({% post_url 2019-08-29-academic-lineage %})**
 
 </div>
 
