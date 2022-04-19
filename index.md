@@ -9,6 +9,8 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
+***I'm currently looking for full-time roles for AI/ML research engineer starting January 2023.***
+
 PhD candidate in the [Visual Analytics and Imaging Lab](https://www3.cs.stonybrook.edu/~mueller/) at [Stony Brook University](https://www.stonybrook.edu/) advised by [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/). Get in touch, connect me on [LinkedIn](https://www.linkedin.com/in/anjul-tyagi/)!
 
 My research interest includes:
@@ -19,12 +21,11 @@ My research interest includes:
   <li><b>High Dimensional Data Visualization</b> <i>(#Data Visualization)</i></li>
 </ul>
 
-Besides research, I like contributing to interesting Open Source Projects on Github, and writing about latest research trends on Medium. 
-I have been fortunate to collaborate with professors and researchers in -- Computer Vision at Seagate, Data Visualization ([Klaus Mueller-SBU](https://www3.cs.stonybrook.edu/~mueller/), [Jian Zhao-UWAT](https://www.jeffjianzhao.com/)), Storage Systems ([Erez Zadok-SBU](https://www3.cs.stonybrook.edu/~ezk/)) and Eye Tracking ([Ayush Kumar-SBU](https://www3.cs.stonybrook.edu/~aykumar/), [Michael Burch-TU/e](http://www.profitippliga.de/index2.php)). 
+Besides research, I like contributing to interesting Open Source Projects on Github, and writing about latest research trends on Medium. Previously, I have worked at Facebook (Meta), and Seagate as a Data Science and Machine Learning Intern. During my undergrad, I worked at Mozilla as a Software Developer Intern. I completed my undergraduate in Computer Science from Indian Institute of Information Technology where I was the Salutatorian of my class. My Ph.D. research is funded from the NSF grant for promoting Visualization Research in Storage Systems written by me, [Prof. Klaus Mueller](https://www3.cs.stonybrook.edu/~mueller/) and [Prof. Erez Zadok](https://www3.cs.stonybrook.edu/~ezk/). I have also worked with [Prof. Jian Zhao](https://www.jeffjianzhao.com/) on several Human Computer Interaction projects. 
 
-Socially, I love meeting new people and enjoy part time Fitness, Athletics and Music. Connect me on [Instagram](https://www.instagram.com/tyagi_anjul/)!
+Socially, I love meeting new people and enjoy part time Fitness, Athletics and Music. Connect me on [**Instagram**](https://www.instagram.com/tyagi_anjul/)!
 
-<span style="color:red">**Fun Fact!**</span> **My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how.]({% post_url _posts/2019-08-29-academic-lineage %})**
+<span style="color:red">**Fun Fact!**</span> **My academic lineage traces back to Isaac Newton and Galileo Galilei. [Here's how.]({% post_url 2019-08-29-academic-lineage %})**
 
 </div>
 
@@ -51,7 +52,6 @@ Socially, I love meeting new people and enjoy part time Fitness, Athletics and M
 <a href="https://www.facebook.com/anjul.tyagi.56884/"><i class="fab fa-facebook"></i></a>
 <a href="https://scholar.google.com/citations?user=Ra9BXlkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a>
 </div>
-
 </div>
 
 ## Featured Projects

@@ -1,3 +1,35 @@
+- title: Explainable Neural Network Architecture Search
+  image: nas.jpg
+  # url: https://towardsdatascience.com/information-organization-with-infographics-using-machine-learning-a-survey-54b2169c1f21?sk=fb9286a82fadc2317b849f81209ff4ea
+  paper: https://arxiv.org/abs/2009.13008
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  # code: https://github.com/tyagi-iiitv/PointPillars
+  # article: https://towardsdatascience.com/information-organization-with-infographics-using-machine-learning-a-survey-54b2169c1f21?sk=fb9286a82fadc2317b849f81209ff4ea
+  # recording: https://vimeo.com/290330896
+  description: "Fully explainable and human controllable Neural Network Architecture Search. This helps in finding the best NN architecture for your problem without manual fiddling."
+  highlight: 1
+- title: 3D Object Detection for Autonomous Vehicles
+  image: 3d_object_detection.png
+  # url: https://towardsdatascience.com/information-organization-with-infographics-using-machine-learning-a-survey-54b2169c1f21?sk=fb9286a82fadc2317b849f81209ff4ea
+  # paper: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/tyagi-iiitv/PointPillars
+  article: https://medium.com/@a_tyagi/3d-point-clouds-bounding-box-detection-and-tracking-pointnet-pointnet-lasernet-point-pillars-9439af14dfba
+  # recording: https://vimeo.com/290330896
+  description: "Creating object detection deep neural networks for Lidar (3D) point clouds. Used in self driving cars."
+  highlight: 1
+
+- title: Automated Infographics Generation
+  image: infographics.jpeg
+  url: 'blog/2022/04/infographics-wizard'
+  paper: https://arxiv.org/abs/2108.11914
+  # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
+  code: https://github.com/tyagi-iiitv/infographics_generation
+  article: https://towardsdatascience.com/information-organization-with-infographics-using-machine-learning-a-survey-54b2169c1f21
+  # recording: https://vimeo.com/290330896
+  description: "Checkout our paper on how to automatically generate infographic (poster) designs by simply proving some cues to the system."
+  highlight: 1
+
 - title: Mozilla's Update Handling Server
   image: balrog.JPG
   # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
@@ -7,10 +39,10 @@
   # article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
   # recording: https://vimeo.com/290330896
   description: "I worked as an Open Source Developer for Mozilla's Update handling server -- Balrog. Access my contributions with this [link](https://bugzilla.mozilla.org/buglist.cgi?resolution=---&resolution=FIXED&resolution=INVALID&resolution=WONTFIX&resolution=DUPLICATE&resolution=WORKSFORME&resolution=INCOMPLETE&resolution=SUPPORT&resolution=EXPIRED&resolution=MOVED&emailtype1=exact&emailassigned_to1=1&query_format=advanced&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=anjul.ten%40gmail.com&list_id=13792801)."
-  highlight: 4
+  # highlight: 2
 
 - title: User Task Classification with Eye Tracking
-  image: eye_tracking1.JPG
+  image: eye_tracking1.jpg
   # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
   paper: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
   # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk
@@ -18,7 +50,7 @@
   # article: https://drive.google.com/file/d/1t_5bKLqSokNK78MipupkWpp8WuuShmkO/view
   # recording: https://vimeo.com/290330896
   description: "This is the study of classifying user tasks from the eye movements. Presented at [ACM ETRA 2019](https://etra.acm.org/2019/)."
-  highlight: 3
+  highlight: 1
 
 - title: Road Accidents Visual Analytics
   image: road_accidents.JPG
@@ -95,7 +127,7 @@
   # article: 
   # recording: https://youtu.be/bZJot0LL2Mc
   description: "Deep learning project to classify images from the [Imagenet](http://www.image-net.org/) dataset. Kaggle leaderboard [ranking](https://www.kaggle.com/c/cse512f18hw6img/leaderboard) 12/74."
-  highlight: 2
+  # highlight: 2
 
 - title: Guitar Tuner
   # url: https://github.com/tyagi-iiitv/guitar-tuner-in-octave
@@ -112,7 +144,7 @@
   # article: 
   recording: https://youtu.be/bZJot0LL2Mc
   description: "An interactive visualization tool to understand large categorical datasets with real time interactions. To appear in proc. of [VAST, IEEE VIS, 2019](http://ieeevis.org/year/2019/welcome)."
-  highlight: 1
+  # highlight: 1
 
 - title: Games in C
   image: games_c.JPG

@@ -1,3 +1,28 @@
+- id: dnn
+  title: "Visual Steering for One-Shot Deep Neural Network Synthesis"
+  year: 2020
+  # doi: 10.1145/3290605.3300924
+  # short_doi: c5cv
+  # osf: szpqm
+  pdf: https://arxiv.org/pdf/2009.13008.pdf
+  arxiv: "2009.13008"
+  highlight: true
+  venue: arxiv
+  authors:
+    - Anjul Tyagi 
+    - Cong Xie
+    - Klaus Mueller
+  tags:
+    - Visualization
+    - Interactive tool
+    - Python
+    - JavaScript
+    - Optimization
+    - Deep Learning
+    - Computer Vision
+  type:
+    - Conference
+
 - id: ice
   title: "ICE: Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces"
   year: 2019
@@ -57,7 +82,6 @@
     - ETRA
   venue_location: Denver, USA
   venue_url: https://etra.acm.org/2019/
-  highlight: true
   # link: https://github.com/uwdata/falcon
   type:
     - Conference

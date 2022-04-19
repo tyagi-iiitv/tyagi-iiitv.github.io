@@ -1,0 +1,8 @@
+Update Packages
+-- bundle update
+
+Run the server
+-- bundle exec jekyll serve
+
+Webrick issue
+-- bundle add Webrick
