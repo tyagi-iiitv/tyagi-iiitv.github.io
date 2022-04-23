@@ -16,9 +16,8 @@ This paper is a part of full papers accepted at the [EURO VIS'22](https://confer
 Code
 ----
 
-Access via GitHub [here](http://tyagi-iiitv/infographics_generation (github.com)).
+Access via GitHub [here](https://github.com/tyagi-iiitv/infographics_generation).
 
-> The repository is currently private since we are waiting for the paper to be published. We'll make the link public in June'22.
 
 Supplementary Material, Dataset and Appendix Files
 --------------------------------------------------
