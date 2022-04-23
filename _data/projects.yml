@@ -42,7 +42,7 @@
   # highlight: 2
 
 - title: User Task Classification with Eye Tracking
-  image: eye_tracking1.jpg
+  image: eye_tracking1.JPG
   # url: https://www.kaggle.com/c/cse-512-hw7/leaderboard
   paper: https://www.researchgate.net/profile/Ayush_Kumar3/publication/332158273_Task_Classification_Model_for_Visual_FixationExploration_and_Search/links/5ca8bc164585157bd3263083/Task-Classification-Model-for-Visual-Fixation-Exploration-and-Search.pdf
   # demo: https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk

@@ -11,7 +11,7 @@ src="https://www.youtube.com/embed/4utyl5M11X4?controls=1">
 Full Paper
 ----------
 
-This paper is a part of full papers accepted at the [EURO VIS'22](https://conferences.eg.org/eurovis2022/) conference. Paper link will be available soon!
+This paper is a part of full papers accepted at the [EURO VIS'22](https://conferences.eg.org/eurovis2022/) conference. Access the preprint [here](https://arxiv.org/pdf/2204.09904.pdf). 
 
 Code
 ----
